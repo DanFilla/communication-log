@@ -1,6 +1,10 @@
 body {
    color: white;
+<<<<<<< HEAD
    background-color: darkcyan;
+=======
+   background-color: grey;
+>>>>>>> a2ce0fc64c9a0119334b2a94384909c5faa8a67c
    font-family: 'Sacramento', cursive;
    font-size: 150%;
    margin: 5em 25%;
